@@ -39,10 +39,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var test2 = /** @class */ (function () {
     function test2() {
     }
-    test2.two = function () {
+    test2.three = function () {
         return __awaiter(this, void 0, void 0, function () {
             return __generator(this, function (_a) {
-                console.log("two");
+                console.log("three");
                 return [2 /*return*/];
             });
         });
